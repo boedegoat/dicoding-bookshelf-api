@@ -16,6 +16,8 @@ npm start
 
 Sorry jika masih ada kekurangan karena saya masih banyak belajar. Sekian, Terimakasih 😀.
 
+[GitHub Repo](https://github.com/boedegoat/dicoding-bookshelf-api)
+
 ## TODO
 
 - [x] save book
